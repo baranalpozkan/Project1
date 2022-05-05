@@ -1,4 +1,7 @@
 # Project1
-Insertion Sort Project
+
+## Insertion Sort Project
+
 Baranalp Özkan
-Ödev linki: www.patika.dev 
+
+[link]: (https://www.patika.dev/tr)
