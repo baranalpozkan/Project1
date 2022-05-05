@@ -2,6 +2,8 @@
 
 ## Insertion Sort Project
 
-Baranalp Özkan
+- Baranalp Özkan
 
-[link]: (https://www.patika.dev/tr)
+
+
+[Patikaya gitmek için tıklayınız.](https://www.patika.dev/tr)
